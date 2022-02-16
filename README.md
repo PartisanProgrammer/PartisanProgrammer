@@ -1,8 +1,8 @@
 ### Hello There!
-#### I am a C# programmer student from Sweden
+#### I am a C#/Unity game programming student from Sweden
 
 
-I am always trying to learn how to make code cleaner and more modular
+My current main focus is trying to learn how to make code cleaner and more modular
 
 
 <!--
