@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello There!
+####I am a C# programmer student from Sweden
+
+
+I am always trying to learn how to make code cleaner and more modular
+
 
 <!--
 **PartisanProgrammer/PartisanProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
