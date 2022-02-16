@@ -5,7 +5,7 @@ My current main focus is trying to learn how to make code cleaner and more modul
 
 
 ## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/oliver-källerfors-358bb21b3/)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white?logoWidth=40" />](https://www.linkedin.com/in/oliver-källerfors-358bb21b3/)
 
 [<img align="left" alt="wordpress" src="https://img.shields.io/badge/PartisanProgrammer-wordpress-blueviolet" />](https://partisanprogrammer.wordpress.com)
 
