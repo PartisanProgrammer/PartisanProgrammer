@@ -10,6 +10,7 @@ My current main focus is trying to learn how to make cleaner and more modular co
 [<img align="left" alt="wordpress" src="https://img.shields.io/badge/PartisanProgrammer-Portfolio-blueviolet"  />](https://partisanprogrammer.wordpress.com)
 
 
+
 # My Guiding Philosophies 
 #### These are a few of my core focus areas when programming is concerned
 
